@@ -10,3 +10,6 @@
 
 - Initial commit
 
+### Changed
+
+- Fixed high severity issue: unexpected XXXXXXX in line 3 [Issue](https://github.com/davmlaw/2023_assignment_5_adelaide_uni_bioinfo/issues/47)
